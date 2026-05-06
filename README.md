@@ -34,7 +34,7 @@ Ele auxilia no desenvolvimento, explicação de códigos e prática durante os e
 ### 1. Criar ambiente virtual
 
 ```bash
-conda create --name manu_Coder python=3.13
+conda create -name manu_Coder python=3.13
 ```
 
 ---
