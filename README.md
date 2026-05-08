@@ -83,9 +83,9 @@ Utilize um arquivo `.env` para armazenar suas credenciais com segurança.
 ## 👨‍💻 Autores
 
 Projeto desenvolvido por:
-**Manuel
-Antonio Denilson
-Luciano Gomes
+**Manuel Filipe, 
+Antonio Denilson,
+Luciano Gomes,
 Fabricio Fernandes**
 
 
