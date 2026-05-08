@@ -80,8 +80,13 @@ Utilize um arquivo `.env` para armazenar suas credenciais com segurança.
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
-Projeto desenvolvido por **Manuel** para fins educacionais.
+Projeto desenvolvido por:
+**Manuel
+Antonio Denilson
+Luciano Gomes
+Fabricio Fernandes**
+
 
 ---
